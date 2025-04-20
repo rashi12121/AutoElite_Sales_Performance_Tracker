@@ -36,6 +36,7 @@ The following visualizations were created:
 - 📉 **Monthly Variance Bar Chart** — Monthly trends in variance.
 - 📍 **Region-wise Variance Chart** — Total variance by region.
 - 🗺️ **State-wise Variance Chart** — Sales difference by state.
+- 🚗 **Model-wise Variance Chart** — Sales difference by Models.
 
 ---
 
